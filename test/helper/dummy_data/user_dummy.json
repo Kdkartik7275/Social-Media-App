@@ -1,0 +1,16 @@
+{
+
+    "username": "john_doe",
+  "email": "john.doe@example.com",
+  "photoUrl": "https://example.com/profile.jpg",
+  "blockedUsers": [],
+  "country": "USA",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "id": "123456789",
+  "signedUpAt": "30 April 2024 at 13:04:13 UTC+5:30" ,
+  "lastSeen": "30 April 2024 at 13:04:13 UTC+5:30",
+  "isOnline": true,
+  "followers": ["user1", "user2", "user3"],
+  "followings": ["user4", "user5"]
+
+}
